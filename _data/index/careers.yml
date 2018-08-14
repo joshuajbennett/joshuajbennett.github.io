@@ -1,29 +1,57 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: BYU CAD Lab
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: "I developed software in C# for multi-user design in Inventor and NX. Patented a database association method that sped up initial part loading times by 100x and ensured commercial viability for the project."
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: August 2012 - April 2013
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Research Assistant, Developer Lead
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: The Shot Coach
+    i18n: company_a
+  desc:
+    detail: "I worked on player tracking and shot detection for the Shot Coach. I worked on this startup with four other students at BYU. We had a working prototype for tracking players on the court and placed in the top eight at the Miller New Venture Competition!"
+    i18n: company_a_desc
+  date:
+    detail: Dec 2012 - November 2013
+    i18n: company_a_date
+  job:
+    detail: Co-founder, Lead Engineer
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: National Instruments
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: "I worked on an automated airflow measurement system. I worked independently to develop a sensor interface PCB, integrate a user interface, and created an automatic process for flow impedance measurements."
+    i18n: company_b_desc
+  date:
+    detail: May 2013 - August 2013
+    i18n: company_b_date
+  job:
+    detail: Mechanical Engineering Intern
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Sisu Devices
+    i18n: company_b
+  desc:
+    detail: ""
     i18n: company_b_desc
   date:
     detail: Jun. 2015
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Systems Engineer
     i18n: company_b_job
   icon: fa-plus-square
